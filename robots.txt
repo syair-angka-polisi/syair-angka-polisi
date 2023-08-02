@@ -1,0 +1,3 @@
+User-agent: *
+
+Sitemap: https://syair-angka-polisi.github.io/sitemap.xml
